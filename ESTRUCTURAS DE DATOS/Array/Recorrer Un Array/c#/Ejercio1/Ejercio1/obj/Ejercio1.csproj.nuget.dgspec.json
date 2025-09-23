@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\Ejercio1\\Ejercio1\\Ejercio1.csproj": {}
+    "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\c#\\Ejercio1\\Ejercio1\\Ejercio1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\Ejercio1\\Ejercio1\\Ejercio1.csproj": {
+    "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\c#\\Ejercio1\\Ejercio1\\Ejercio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\Ejercio1\\Ejercio1\\Ejercio1.csproj",
+        "projectUniqueName": "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\c#\\Ejercio1\\Ejercio1\\Ejercio1.csproj",
         "projectName": "Ejercio1",
-        "projectPath": "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\Ejercio1\\Ejercio1\\Ejercio1.csproj",
+        "projectPath": "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\c#\\Ejercio1\\Ejercio1\\Ejercio1.csproj",
         "packagesPath": "C:\\Users\\la\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\Ejercio1\\Ejercio1\\obj\\",
+        "outputPath": "C:\\Users\\la\\Desktop\\Programacion\\Algorithms-and-Data-Structure\\ESTRUCTURAS DE DATOS\\Array\\Recorrer Un Array\\c#\\Ejercio1\\Ejercio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\la\\AppData\\Roaming\\NuGet\\NuGet.Config",
