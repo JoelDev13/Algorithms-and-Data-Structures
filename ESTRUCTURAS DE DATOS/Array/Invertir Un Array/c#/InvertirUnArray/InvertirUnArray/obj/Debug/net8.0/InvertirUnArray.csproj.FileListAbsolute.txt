@@ -1,0 +1,15 @@
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\bin\Debug\net8.0\InvertirUnArray.exe
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\bin\Debug\net8.0\InvertirUnArray.deps.json
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\bin\Debug\net8.0\InvertirUnArray.runtimeconfig.json
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\bin\Debug\net8.0\InvertirUnArray.dll
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\bin\Debug\net8.0\InvertirUnArray.pdb
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.AssemblyInfoInputs.cache
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.AssemblyInfo.cs
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.csproj.CoreCompileInputs.cache
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.sourcelink.json
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.dll
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\refint\InvertirUnArray.dll
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.pdb
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\InvertirUnArray.genruntimeconfig.cache
+C:\Users\la\Desktop\Programacion\Algorithms-and-Data-Structure\ESTRUCTURAS DE DATOS\Array\Invertir Un Array\c#\InvertirUnArray\InvertirUnArray\obj\Debug\net8.0\ref\InvertirUnArray.dll
